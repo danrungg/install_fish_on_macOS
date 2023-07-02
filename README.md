@@ -48,13 +48,13 @@
 
 ## Add cdf functionality
 
-1. to cd to the current Finder directory (very usefull)
+to cd to the current Finder directory (very usefull)
 
-2. go to `cd .config/fish/functions/`
+1. go to `cd .config/fish/functions/`
 
-3. `touch cdf.fish`
+2. `touch cdf.fish`
 
-4. `nano cdf.fish` and enter:
+3. `nano cdf.fish` and enter:
 
 ```
 function pfd -d "Return the path of the frontmost Finder window"
